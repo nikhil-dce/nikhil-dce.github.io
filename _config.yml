@@ -24,7 +24,7 @@ description:      'Research Assistant<br>
                   <a href="mailto:nikhilm@iitk.ac.in">nikhilm@iitk.ac.in</a>'
  
 #description:      'Alright then <a href="http://jekyllrb.com" target="_blank">Jekyll</a> the<a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://nikhil-dce.com
+url:              https://nikhil-dce.github.io
 baseurl:          /
 
 author:
