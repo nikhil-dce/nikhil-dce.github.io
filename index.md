@@ -9,7 +9,7 @@ title: Home
 Hi, I am an RA at the Computer Engineering Department IIT, Kanpur India. 
 
 
-I am currently working on some exciting problems at the intersection of Deep Learning and Probabilistic Machine Learning under the supervision of <a href="https://www.cse.iitk.ac.in/users/piyush/" target="_blank">Prof. Piyush Rai</a>. Prior to that I worked on Deep Learning Techniques and real-time multimodal sensor data fusion for Autonomous Vechicles under <a href="http://home.iitk.ac.in/~gpandey/" target="_blank"> Prof. Gaurav Pandey</a>.    
+I am currently working on some exciting problems at the intersection of Deep Learning and Probabilistic Machine Learning under the supervision of <a href="https://www.cse.iitk.ac.in/users/piyush/" target="_blank">Prof. Piyush Rai</a>. Prior to that I worked on Deep Learning Techniques and Real-time Multimodal sensor data fusion for Self-Driving Vehicles under <a href="http://home.iitk.ac.in/~gpandey/" target="_blank"> Prof. Gaurav Pandey</a>.    
 
 
 My research interests include Deep Learning, Probabilistic Modelling and Machine Learning. I am also currently in the process of applying to graduate programs for Fall'18.  
