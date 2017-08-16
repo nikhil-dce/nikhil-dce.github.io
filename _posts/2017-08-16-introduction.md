@@ -1,17 +1,16 @@
 ---
 layout: post
-title: Homepage
+title: Nikhil Mehta
 ---
+<hr style="height:2px;border:none;color:#333;background-color:#AAA;" />
 
-[comment]: # (Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.)
+Hi, I am an RA at the Computer Engineering Department IIT, Kanpur India. 
 
-[comment]: # (### Homepage)
 
-Hi, I am an RA at the Computer Engineering Department IIT, Kanpur India.
+I am currently working on some exciting problems at the intersection of Deep Learning and Probabilistic Machine Learning under the supervision of <a href="https://www.cse.iitk.ac.in/users/piyush/" target="_blank">Prof. Piyush Rai</a>. Prior to that I worked on Deep Learning Techniques and Real-time Multimodal sensor data fusion for Self-Driving Vehicles under <a href="http://home.iitk.ac.in/~gpandey/" target="_blank"> Prof. Gaurav Pandey</a>.    
 
-I am currently working on some exciting problems at the intersection of Deep Learning and Probabilistic Machine Learning under the supervision of <a href="https://www.cse.iitk.ac.in/users/piyush/" target=_empty>Prof. Piyush Rai</a>. Prior to that I worked on Deep Learning Techniques and real-time multimodal sensor data fusion for Autonomous Vechicles under <a href="http://home.iitk.ac.in/~gpandey/" target="_empty"> Prof. Gaurav Pandey</a>.    
 
-I am also currently in the process of applying to graduate programs for Fall'18. 
+My research interests include Deep Learning, Probabilistic Modelling and Machine Learning. I am also currently in the process of applying to graduate programs for Fall'18.  
 
 
 Please feel free to contact me at <a href="mailto:nikhilmehta.dce@gmail.com">nikhilmehta.dce@gmail.com</a>.
