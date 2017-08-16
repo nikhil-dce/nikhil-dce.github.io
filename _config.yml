@@ -26,7 +26,7 @@ description:      'Research Assistant<br>
  
 #description:      'Alright then <a href="http://jekyllrb.com" target="_blank">Jekyll</a> the<a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:              https://nikhil-dce.github.io
-baseurl:          /
+baseurl:          https://nikhil-dce.github.io/
 
 author:
   name:           'Nikhil Mehta'
