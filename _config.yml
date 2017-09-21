@@ -25,8 +25,8 @@ description:      'Research Assistant<br>
                   <a href="mailto:nikhil@cse.iitk.ac.in">nikhil@cse.iitk.ac.in</a>'
  
 #description:      'Alright then <a href="http://jekyllrb.com" target="_blank">Jekyll</a> the<a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              https://nikhil-dce.github.io/
-baseurl:          /
+url:              https://nikhil-dce.github.io
+baseurl:          
 
 author:
   name:           'Nikhil Mehta'
