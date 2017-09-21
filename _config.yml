@@ -20,13 +20,13 @@ title:            Nikhil Mehta
 tagline:          'RA at IIT-Kanpur'
 
 description:      'Research Assistant<br>
-                  Computer Engineering<br>
+                  Computer Science Dept.<br>
                   IIT-Kanpur <br>
-                  <a href="mailto:nikhilm@iitk.ac.in">nikhilm@iitk.ac.in</a>'
+                  <a href="mailto:nikhil@cse.iitk.ac.in">nikhil@cse.iitk.ac.in</a>'
  
 #description:      'Alright then <a href="http://jekyllrb.com" target="_blank">Jekyll</a> the<a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              https://nikhil-dce.github.io
-baseurl:          https://nikhil-dce.github.io/
+url:              https://nikhil-dce.github.io/
+baseurl:          /
 
 author:
   name:           'Nikhil Mehta'
