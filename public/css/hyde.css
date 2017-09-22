@@ -85,9 +85,28 @@ html {
   font-size: 2.25rem;
 }
 
+
+/* Sticky sidebar
+ *
+ * Add the `sidebar-sticky` class to the sidebar's container to affix it the
+ * contents to the bottom of the sidebar in tablets and up.
+ */
+
+/* bottom: 5rem; */
+@media (min-width: 48em) {
+  .sidebar-sticky {
+    position: absolute;
+    right:  1rem;
+    left:   1rem;
+    height: 100%
+  }
+}
+
 /* Sidebar nav */
 .sidebar-nav {
-  margin-bottom: 1rem;
+    margin-bottom: 1rem;
+    bottom: 4rem;
+    position: absolute
 }
 .sidebar-nav-item {
   display: block;
@@ -99,21 +118,6 @@ a.sidebar-nav-item:focus {
 }
 .sidebar-nav-item.active {
   font-weight: bold;
-}
-
-/* Sticky sidebar
- *
- * Add the `sidebar-sticky` class to the sidebar's container to affix it the
- * contents to the bottom of the sidebar in tablets and up.
- */
-
-@media (min-width: 48em) {
-  .sidebar-sticky {
-    position: absolute;
-    right:  1rem;
-    bottom: 1rem;
-    left:   1rem;
-  }
 }
 
 
