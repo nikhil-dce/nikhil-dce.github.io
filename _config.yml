@@ -21,8 +21,7 @@ tagline:          'RA at IIT-Kanpur'
 
 description:      'Research Assistant<br>
                   Computer Science Dept.<br>
-                  IIT-Kanpur <br>
-                  <a href="mailto:nikhil@cse.iitk.ac.in">nikhil@cse.iitk.ac.in</a>'
+                  IIT-Kanpur <br>'
  
 #description:      'Alright then <a href="http://jekyllrb.com" target="_blank">Jekyll</a> the<a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:              https://nikhil-dce.github.io
