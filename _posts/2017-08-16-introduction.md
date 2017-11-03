@@ -4,7 +4,7 @@ title: Nikhil Mehta
 ---
 <hr style="height:2px;border:none;color:#333;background-color:#AAA;" />
 
-Hi, I am an RA at the Computer Engineering Department IIT, Kanpur India. 
+Hi, I am an RA at the Computer Science Department IIT, Kanpur India. 
 
 
 I am currently working on some exciting problems at the intersection of Deep Learning and Probabilistic Machine Learning under the supervision of <a href="https://www.cse.iitk.ac.in/users/piyush/" target="_blank">Prof. Piyush Rai</a>. Prior to that I worked on Deep Learning Techniques and Real-time Multimodal sensor data fusion for Self-Driving Vehicles under <a href="http://home.iitk.ac.in/~gpandey/" target="_blank"> Prof. Gaurav Pandey</a>.    
