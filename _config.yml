@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Nikhil Mehta"
   avatar           : "profile.jpeg"
-  bio              : "Ph.D. Candidate in Deep Learning @ Duke University"
+  bio              : "<b> Ph.D. Candidate in Deep Learning @ Duke University \n \n  Email: nm208@duke.edu</b>"
   location         : "USA"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=4cgHaJ0AAAAJ&hl=en"
-  email            :
+  email            : "nm208@duke.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

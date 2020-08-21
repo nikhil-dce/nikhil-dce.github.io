@@ -12,6 +12,8 @@ redirect_from:
 * Prior to joining Duke, I spent 18 wonderful months at [IIT Kanpur](https://www.iitk.ac.in) as a research associate working with [Prof. Piyush Rai](https://www.cse.iitk.ac.in/users/piyush) and [Prof. Gaurav Pandey](http://home.iitk.ac.in/~gpandey/).
 * I hail from the capital city of India, Delhi, where I received my Bachelors in Computer Engineering from Delhi Technological University.
 
+Please feel free to [contact](mailto:nm208@duke.edu) me.
+
 ## Research
 
 My research interests lie in the general area of machine learning, particularly in Bayesian neural networks and generative models along with their applications.
