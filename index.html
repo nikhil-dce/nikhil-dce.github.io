@@ -74,6 +74,39 @@
                  style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
             <tbody>
 
+              <tr onmouseout="wf_stop()" onmouseover="wf_start()">
+                <td style="padding:20px;width:25%;vertical-align:middle">
+                  <div class="one">
+                    <div class="two" id='wf_image'>
+                      <img src='images/waffle.png' width="160"></div>
+                  </div>
+                  <script type="text/javascript">
+                    function wf_start() {
+                      document.getElementById('wf_image').style.opacity = "1";
+                    }
+
+                    function wf_stop() {
+                      document.getElementById('wf_image').style.opacity = "0.6";
+                    }
+                    wf_stop()
+                  </script>
+                </td>
+                <td style="padding:20px;width:75%;vertical-align:top">
+                  <a href="https://arxiv.org/abs/2008.05687">
+                    <papertitle>WAFFLe: Weight Anonymized Factors for Federated Learning
+                    </papertitle>
+                  </a>
+                  <br>
+                  W. Hao, <strong>N. Mehta</strong>, K. Liang, P. Cheng, M. Khamy & L. Carin
+                  <br>
+                  <em>arXiv</em>, 2020
+                  <p>
+                    A Bayesian nonparametric framework using shared rank-1 weight factors for
+                    federated learning.
+                  </p>
+                </td>
+              </tr>
+
               <tr onmouseout="flare_stop()" onmouseover="flare_start()">
                 <!-- For mp4 use below: -->
                 <!-- <td style="padding:20px;width:25%;vertical-align:middle">
@@ -118,44 +151,41 @@
                       with Neural Networks </papertitle>
                   </a>
                   <br>
-                  <strong>N. Mehta</strong>, K. Liang, & L. Carin
+                  <strong>N. Mehta</strong>, K. Liang, V. Verma, & L. Carin
                   <br>
-                  <em>arXiv</em>, 2020
+                  <em>AISTATS</em>, 2021
                   <p>Continual Learning using Bayesian Nonparametrics and layer-wise dictionary of
                     weight factors.</p>
                 </td>
               </tr>
 
-              <tr onmouseout="wf_stop()" onmouseover="wf_start()">
+              <tr onmouseout="causal_stop()" onmouseover="causal_start()">
+                
                 <td style="padding:20px;width:25%;vertical-align:middle">
                   <div class="one">
-                    <div class="two" id='wf_image'>
-                      <img src='images/waffle.png' width="160"></div>
+                    <div class="two" id='causal_image'>
+                      <img src='images/causal_image.png' width="160"></div>
                   </div>
                   <script type="text/javascript">
-                    function wf_start() {
-                      document.getElementById('wf_image').style.opacity = "1";
+                    function causal_start() {
+                      document.getElementById('causal_image').style.opacity = "1";
                     }
 
-                    function wf_stop() {
-                      document.getElementById('wf_image').style.opacity = "0.6";
+                    function causal_stop() {
+                      document.getElementById('causal_image').style.opacity = "0.6";
                     }
-                    wf_stop()
+                    causal_stop()
                   </script>
                 </td>
                 <td style="padding:20px;width:75%;vertical-align:top">
-                  <a href="https://arxiv.org/abs/2008.05687">
-                    <papertitle>WAFFLe: Weight Anonymized Factors for Federated Learning
-                    </papertitle>
+                  <a href="https://arxiv.org/abs/2010.12618">
+                    <papertitle> Counterfactual Representation Learning with Balancing Weights </papertitle>
                   </a>
                   <br>
-                  W. Hao, <strong>N. Mehta</strong>, K. Liang, P. Cheng, M. Khamy & L. Carin
+                  S. Assaad, S. Zeng, C. Tao, S. Datta, <strong>N. Mehta</strong>, R. Henao, F. Li, & L. Carin
                   <br>
-                  <em>arXiv</em>, 2020
-                  <p>
-                    A Bayesian nonparametric framework using shared rank-1 weight factors for
-                    federated learning.
-                  </p>
+                  <em>AISTATS</em>, 2021
+                  <p>Counterfactual Representation Learning with Balancing Weights</p>
                 </td>
               </tr>
 
