@@ -73,6 +73,38 @@
           <table
                  style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
             <tbody>
+              
+              <tr onmouseout="eft_stop()" onmouseover="eft_start()">
+                <td style="padding:20px;width:25%;vertical-align:middle">
+                  <div class="one">
+                    <div class="two" id='eft_image'>
+                      <img src='images/eft.png' width="160"></div>
+                  </div>
+                  <script type="text/javascript">
+                    function eft_start() {
+                      document.getElementById('eft_image').style.opacity = "1";
+                    }
+
+                    function eft_stop() {
+                      document.getElementById('eft_image').style.opacity = "0.6";
+                    }
+                    eft_stop()
+                  </script>
+                </td>
+                <td style="padding:20px;width:75%;vertical-align:top">
+                  <a href="">
+                    <papertitle>Efficient Feature Transformations for Discriminative and Generative Incremental Learning
+                    </papertitle>
+                  </a>
+                  <br>
+                  V. Verma, K. Liang, <strong>N. Mehta</strong>, P. Rai, & L. Carin
+                  <br>
+                  <em>CVPR</em>, 2021 (Accepted)
+                  <p>
+                    Preprint coming soon.
+                  </p>
+                </td>
+              </tr>
 
               <tr onmouseout="wf_stop()" onmouseover="wf_start()">
                 <td style="padding:20px;width:25%;vertical-align:middle">
