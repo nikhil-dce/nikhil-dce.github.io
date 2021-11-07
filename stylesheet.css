@@ -129,3 +129,13 @@ name {
 span.highlight {
   background-color: #ffffd0;
 }
+
+ul {
+  list-style: none;
+  padding: 2;
+}
+
+ul li {
+  justify-content: space-between;
+  display: flex;
+}
